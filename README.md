@@ -9,7 +9,6 @@ A companion script is provided to convert the trained PyTorch model into **Tenso
 
 ## Overview
 
-With the rapid growth of AI-generated media, being able to identify synthetic content is increasingly important for digital authenticity and media forensics.  
 This experiment demonstrates how a deep learning model can learn to distinguish AI-generated images (e.g., from diffusion models) from real, human-created ones.
 
 The workflow includes:
